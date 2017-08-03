@@ -1,2 +1,2 @@
-# file-size-fcc
-FCC File Metadata API Project
+# FreeCodeCamp File Metadata API
+This project returns a JSON showing the file size of the uploaded file.
